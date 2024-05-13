@@ -5,9 +5,9 @@ import { HiOutlineMenuAlt3, HiOutlineUserCircle } from 'react-icons/hi'
 import Link from 'next/link';
 import CustomModel from '../app/utils/CustomModel'
 import React, { useEffect, useState } from 'react'
-import Login from '../components/Auth/Login'
-import SignUp from '../components/Auth/SignUp';
-import Verification from './Auth/Verification';
+import Login from '../components/auth/Login'
+import SignUp from '../components/auth/SignUp';
+import Verification from '../components/auth/Verification';
 import { useSelector } from 'react-redux';
 import Image from 'next/image';
 import avatar from '../../public/avatar.jpg'
