@@ -1,6 +1,6 @@
 'use client'
 import React, { useEffect, useState } from 'react'
-import SideBarProfile from './SidebarProfile'
+import SideBarProfile from './SideBarProfile'
 import { useLogOutQuery } from '../../../redux/features/auth/authApi';
 import { signOut } from 'next-auth/react';
 import ProfileInfo from './ProfileInfo'
