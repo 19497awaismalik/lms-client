@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from 'react'
 import Heading from '../utils/Heading'
-import Header from '../../components/Header.js'
+import Header from '../../components/Header'
 import About from './About'
 import Footer from '../../components/Footer'
 

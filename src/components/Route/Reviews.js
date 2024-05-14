@@ -10,7 +10,7 @@ import business from '../../../public/business-img.png'
 
 import Image from 'next/image'
 import { styles } from '../../app/styles/styles'
-import  ReviewCard from '../Review/ReviewCard.js'
+import  ReviewCard from '../Review/ReviewCard'
 export const reviews=[
     {
     name:"Muhammad Arslan",
